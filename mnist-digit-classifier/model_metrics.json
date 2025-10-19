@@ -1,1 +1,6 @@
-{"accuracy": 0.9952, "loss": 0.017254317179322243, "predictions_correct": 9952, "total_predictions": 10000}
+{
+  "accuracy": 0.991599977016449,
+  "loss": 0.02567634917795658,
+  "training_time_seconds": 322.2791199684143,
+  "accuracy_percentage": 99.1599977016449
+}
