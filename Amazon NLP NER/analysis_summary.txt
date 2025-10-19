@@ -1,0 +1,31 @@
+
+AMAZON PRODUCT REVIEW NLP ANALYSIS - SUMMARY REPORT
+======================================================================
+
+DATASET STATISTICS:
+  • Total Reviews Analyzed: 500
+  • Total Products Detected: 12
+  • Total Brands Detected: 322
+  • Unique Products: 10
+  • Unique Brands: 210
+
+SENTIMENT ANALYSIS:
+  • Positive Reviews: 402 (80.4%)
+  • Negative Reviews: 15 (3.0%)
+  • Neutral Reviews: 83 (16.6%)
+  • Average Sentiment Score: 0.260
+  • Sentiment-Rating Correlation: 0.422
+
+TOP 5 BRANDS:
+  1. Amazon (61 mentions)
+  2. MSG (6 mentions)
+  3. Wellness (6 mentions)
+  4. Amazon.com (6 mentions)
+  5. Tassimo (5 mentions)
+
+TOP 5 PRODUCTS:
+  1. Subscribe (2 mentions)
+  2. Baby Brezza (2 mentions)
+  3. Salmon Delight (1 mentions)
+  4. 3.<br (1 mentions)
+  5. Keruig (1 mentions)
