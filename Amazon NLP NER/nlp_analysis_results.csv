@@ -1,0 +1,501 @@
+review,rating,products,brands,sentiment_score,sentiment
+"Tried several low-sodium soups, and along with Amy's low-sodium Tomato this is very good.  Add half ...",4,[],[],0.311,Positive
+"I've been looking for malt for a very long time, it is pretty hard to find it stores, so I finally o...",4,[],[],0.116,Positive
+This wine aerator works wonders for wine.  It gives a whole new meaning to flavor.  I bought this as...,5,[],[],0.209,Positive
+My dog absolutely loves this bone.  It is a bit messy but thats what I think he likes about it.  I w...,5,[],['AWESOME'],0.307,Positive
+"I use to buy a lot of this jerquee from Amazon, but for the past two months or more every shipment h...",5,[],['Amazon'],0.27,Positive
+"I have tried many many many peppermint and mixed mint teas. This one is the very best, you cannot ge...",5,[],['IBS'],0.515,Positive
+"I bought this feta --liked the taste-- but after only a few days after opening it, it became weird l...",1,[],[],-0.091,Neutral
+Hello<br /><br />On sale for 62 cents a bag.  Not cheap enough for me. Why won't Amazon put some ext...,5,[],['Amazon'],0.123,Positive
+"I've used this product for years, but I have difficulty finding it where I live. Amazon had the prod...",5,[],['Amazon'],0.022,Neutral
+"this is the best dressing I have ever had. It is so good, I could almost drink it by itself. I wish ...",5,[],[],0.733,Positive
+"These are, the MOST delicious, dried sour cherries we've ever bought!  They are sweetened just enoug...",5,[],[],0.278,Positive
+"These are great crackers.  My little guy likes them a lot and best of all, they don't contain any so...",5,[],[],0.537,Positive
+The taste is good and not too hot.  My only problem is the sodium in 1 tsp is 260mg or 11% of the da...,4,[],"['IMHO', 'Arrabiata']",0.268,Positive
+Wonderful product! I began to use it for my daughter who was about to turn a year old. She took it w...,5,[],['LoL'],0.266,Positive
+This product tasted wonderful in my Paleo Pumpkin Pie! Cheapest place I could find it! Will most def...,5,[],[],0.5,Positive
+I got this for my cat because I wanted her to eat healthier dry food.  She didn't really seem to enj...,3,[],[],0.273,Positive
+"This device does one thing and it does it well. I use it to record demos and it provides a crisp, cl...",4,[],[],0.19,Positive
+What's not to like????  I pop this little Kcup in my Keurig out comes a delicious cup of Columbian c...,5,[],[],0.422,Positive
+We just tried the Red Curry Noodles yesterday (haven't tried others; maybe they're good) and we were...,1,[],[],-0.069,Neutral
+The best of the gluten-free pancake mixes for sure and taste just as good as the wheat pancake mixes...,5,[],[],0.733,Positive
+I mostly used this to make taco meat. I also tried it in chili and it was good. The flavor is good b...,5,[],['Redi-Burger'],0.617,Positive
+Amazon delivers this product very quickly -- two or three days (to Philadelphia).  The peanut butter...,5,[],"['Amazon', 'PROBLEM']",0.159,Positive
+"Always hit or miss tryng to find flavored decaf coffee in the shops.  But, from the net, you're not ...",5,[],[],0.188,Positive
+The product worked well to thicken juice from a dish.  It would have been better to have suggested d...,4,[],[],0.5,Positive
+My husband tested + for Celiac's disease this year and we've been trying ALL of the gluten free prod...,1,[],[],0.091,Neutral
+I've purchased this tea several times and love it.  I took one of the cans to work.  Several of my c...,5,[],[],0.257,Positive
+$15 dollars for a case of Fresca?  I can get it for $4 to $5 dollars a case at WalMart.,1,[],"['Fresca', 'WalMart']",0.0,Neutral
+Great Stuff tastes great and has given me back a favorite treat I lost when I became a diabetic!/Lot...,5,[],[],0.556,Positive
+"This product is excellent, and fairly priced.  I am very happy with the taste and quality.  It's ver...",5,[],[],0.625,Positive
+"This stuff is great. My family can not tell the difference between this, McCainns and Honeyville Far...",5,[],['McCainns and Honeyville Farms'],0.35,Positive
+This makes popping popcorn easy - everything's premeasured and the popcorn tastes just like what you...,5,[],[],0.433,Positive
+I am a half-caf drinker and I brew one cup of this Donut House Decaf and one cup of Donut House regu...,5,['Subscribe'],['Donut House'],0.542,Positive
+"Nice spice, great taste.  Could use a little bit more chunk compared to other Campbell's chunky prod...",4,[],['Campbell'],0.318,Positive
+"These bags are fine, with one caveat:  if the bag is for kitchen garbage that will sit for a while, ...",4,[],[],0.114,Positive
+I eat gluten free and gave up pizza long ago. When I discovered chebe pizza dough I was so happy. I ...,5,[],[],0.33,Positive
+"This stuff tastes just like sugar to me, and you can use it just like sugar and I havne't been able ...",4,[],[],0.229,Positive
+"I received this product to review. unfortunately, the sample was only enough for one serving. It is ...",2,[],[],-0.179,Negative
+"I love using K Cups!  Although I have tried so many ""bad"" coffees.  I have finally hit on one dark r...",5,[],['K Cups'],0.272,Positive
+I love this product.  I originally used it because I learned that it was the healthiest fat for fryi...,5,[],[],0.295,Positive
+I love my Keurig and I wanted to try a new coffee for it. I've never tried this so I decided to give...,5,[],[],0.534,Positive
+"I was a little skeptical about buying vanilla beans over the internet. I hadn't bought them before, ...",5,[],[],0.281,Positive
+Casbah Spanish Pilaf  - We really enjoy this rice and could not find it in the grocery stores around...,5,[],"['Pilaf', 'Amazon']",0.222,Positive
+I really wanted my cats to love this food because it's healthy.... but they hate it.  I have 3 cats ...,1,[],[],0.1,Neutral
+The first bar was ok...not great.  Then I found the mold growing on the second bar and in the rest o...,1,[],[],0.013,Neutral
+I have had this product before and keep buying this one here.  Love the taste and also buy for a fri...,5,[],[],0.5,Positive
+I'm not sure how much I like this product because I'm always a little concerned our puppies might ch...,3,[],['CET'],0.085,Neutral
+"I'm not a coffee person, but as a stay at home mom of 2 toddlers, i need caffeine!<br />I dilute thi...",5,[],[],0.283,Positive
+"First of all, I like this coffee. It is smooth, aromatic and doesn't bite going down.<br /><br />Hav...",4,[],[],0.169,Positive
+It takes real innovation to start with corn and sugar to put together scrumptious miniature glazed d...,4,[],['Nut Roasted Nut'],0.186,Positive
+"Hate!!! the new cytomax with stevia.  If I wanted weird sweeteners like stevia, I could buy Hammer p...",1,[],[],-0.273,Negative
+I had this at my friend's; she microwaved it and put it on ice cream.  Yum!  I'm sending a few to my...,4,[],[],-0.2,Negative
+"I'm new to the flax world, so I can't say this is better or worse than any other kind of flax, but i...",5,[],['YUM'],0.22,Positive
+"This was a good value, but as a diabetic I cannot drink it due to a very high sugar content of 28 g ...",3,[],[],0.261,Positive
+Tankyada spaghettis are first quality. My husband has celiac disease and has to eat a gluten free di...,5,[],[],0.108,Positive
+This is one of my favorite mint teas. I have been drinking it for the past 2 years and I am still no...,5,[],[],0.15,Positive
+Diamond Almonds<br />Almonds are a good source of magnesium. One ounce contain approximately 20% of ...,5,[],"['RDA', 'RDA)<br />Recommended Dietary Allowance', 'RDA', 'the Food and Nutrition Board', 'FNB', 'the National Academy of Sciences', 'NAS', 'the Recommended Nutrient Intakes', 'RDA', 'Fiber.<br', 'RDA', '/>Here', 'BBQ', 'sugar).<br', 'Wasabi & Soy Sauce']",0.104,Positive
+I discovered this small delicious natural candy originally at World's Market. Later they ran out so ...,5,[],['Amazon'],0.212,Positive
+"This an excellent product, healthful, tasty and  inexpensive when purchased through the right vendor...",5,[],[],0.482,Positive
+"Purchased the Green Mountain Caribou Coffee Obsidian at Target and Amazon.  Love the coffee, but Ama...",5,[],"['the Green Mountain Caribou Coffee Obsidian', 'Target', 'Amazon', 'Amazon', 'Amazon', 'Amazon', 'Amazon']",0.051,Neutral
+"Fine powder, great when added to Whey smoothie. Gonna try in cookies at Christmas.  when mixed with ...",4,[],[],0.319,Positive
+"Can't say that I've tried it, but my Grandson really likes it and I like the fact that it's organic.",5,[],[],0.2,Positive
+My wife likes her coffee really weak and finding that in a K-cup has been a tough job. I like strong...,4,[],[],-0.009,Neutral
+Cranberry. Cranberry is another one of those flavors that brings out very distinct memories for me. ...,5,[],['ASAP'],0.172,Positive
+High quality ingredients in this most flavorful Italian topping.  I did not have the problem with th...,5,[],[],0.165,Positive
+This hot sauce is the best tasting around. I've been using this sauce for over 10yrs. It's great not...,5,[],[],0.519,Positive
+"Weruva is the best food around, and I feed it to all my cats (including the three ferals that live o...",5,[],['Weruva'],0.471,Positive
+I already liked regular Stash Earl Grey and so dared to try this doubled bergamot variant. This Earl...,5,[],[],0.143,Positive
+"Best mix on the market for making cafe mocha lattes, and we've tried them all",5,[],[],1.0,Positive
+I love my chedder cheese and when you go to a grocery store to buy it you have to settle for what ev...,5,[],['Wisconsin Cheese Mart'],0.243,Positive
+"Bought this new item, have received my Tassimo fix for the exploding t-discs - this one blew out and...",1,[],"['Tassimo', 'Bosch', 'Tassimo']",-0.213,Negative
+As someone who has been trying to add more Omega 3 nutrients to my diet; I have found this bar to be...,5,[],[],0.293,Positive
+I agree with the review above. It's really difficult to find this type of authentic flavor in the US...,5,[],['the Prima Taste Curries'],0.233,Positive
+We initially found this product in a Costco store in Hawaii.  It is not available in amy of our loca...,5,[],['Costco'],-0.065,Neutral
+...these don't taste like you are eating healthy! I went to my nephews wedding and in our gift bags ...,5,[],['Amazon'],0.387,Positive
+The Jalapeno Smokehouse almonds taste great and are a nice healthy option for a snack. The flavor is...,5,[],[],0.581,Positive
+I was so excited to get my Product 19 shipment last week that I invited my friend over to the office...,5,[],[],0.544,Positive
+This is the second Red Palm Oil that I have tried. THis bottle of oil smoked when I turned on the he...,4,[],['Red Palm Oil'],0.167,Positive
+I work in a dental office and we have a prize machine for the children after they have a good visit....,4,[],[],0.591,Positive
+"Wow, if this is the only thing you can get in Europe, I feel sorry for them. After trying this for m...",1,[],"['Tassimo', 'Vanilla Spiced Chai', 'Maxwell House - House Blend', 'Carte Noire Voluptuoso Classic', 'Tassimo', 'Tassimo']",0.099,Neutral
+I have used this product several times....I think that it is great.  I plan to go to their website a...,5,[],[],0.325,Positive
+My dogs favorites are the beef and the pizza. preferably the beef. we were able to bribe her with so...,4,[],[],0.379,Positive
+is a perfect match for the Keurig Brewer because Green Mountain invented the Keurig Brewer.  The Ext...,5,[],['Extra Bold'],0.357,Positive
+"This is a good tasting medium roast coffee.  However, we have had trouble with grounds coming out of...",3,[],[],0.131,Positive
+"Orgain Creamy Chocolate Fudge is my favorite, but there is also a Mocha flavor that is also really g...",5,[],"['Orgain Creamy Chocolate Fudge', 'the Creamy Chocolate Fudge']",0.35,Positive
+"As I have only tried the lemon, lime and orange flavors, I must say I enjoy the flavor they add to w...",4,[],['WITHOUT'],0.152,Positive
+"definitely a keeper. perfect for salads, great in rissoto and pasta. these are just the right size -...",5,[],[],0.669,Positive
+I love the Breakfast Blend because it is not real strong and does not have a bitter taste.  Another ...,5,[],['the Nantucket Blend'],0.264,Positive
+I love this tea.. It was recomended to me by my Dr. to help during pregnancy.. Doesn't taste too bad...,5,[],[],0.1,Positive
+"Kikkoman Pearl Creamy Vanilla Organic Soy milk is the best tasting vanilla soymilk available, in my ...",5,[],['Kikkoman'],0.304,Positive
+My dog seems to be thriving on the Blue Buffalo Longevity Dry Food. He previously had a medical prob...,5,[],"['the Blue Buffalo Longevity Dry Food', 'Amazon']",0.146,Positive
+"After a year on kitten food, one of my two cats began to get rather chubby.  He had a hard time haul...",5,[],[],0.06,Neutral
+This is a perfect dark blend of coffee for anyone who loves a good straight up dark roast with out t...,5,[],"['Folgers', 'Folgers', 'Walmart']",0.124,Positive
+We have 3 Belgian Malinois and they did amazingly well on this food. Their coats looked better on Ca...,5,[],"['Amazon', 'Diamond Naturals']",-0.029,Neutral
+This was a serious surprise to us... our cats have always refused wet cat food except for people qua...,5,[],[],0.004,Neutral
+Have used vinegar for years to dye yarns and fabrics but have now shifted to this product.  Works gr...,5,[],[],0.544,Positive
+The 6 smaller packages of graham crackers in this box is definitely more convenient than the larger ...,4,[],['Ideal'],0.319,Positive
+"Fabulous product, hearty and tasty.  Just what gluten free consumers are looking for in a bread, piz...",5,[],[],0.501,Positive
+This is the BEST beef jerky I've every had.  I've tried many different brands & this is really good....,5,[],[],0.443,Positive
+"We grind this a bit, just enough to break the seed when making sourdough rye bread. Only use 3 table...",5,[],[],0.074,Neutral
+"This is truly an English product.  Nothing like it in the USA, I'm sorry to say. I adore this stuff,...",5,[],"['Salad Cream', 'Amazon']",0.163,Positive
+I really love this product! The Raspberry Lemonade tasted very good. It actually does help me sleep ...,5,[],[],0.512,Positive
+I was so forward of making some bourbon chicken food court authentic style and the results were........,1,[],[],0.0,Neutral
+This TIger Sauce is the only thing I use for my Salmon Delight. My husband can't have it served ofte...,5,['Salmon Delight'],"['Honey', 'The Original Sauce', 'Ginger Ale', 'Vernor', 'Honey']",0.209,Positive
+I really like this coffee it has a great aroma and it has a very good taste i think it tastes really...,4,[],['truvia artificial sugar'],0.394,Positive
+"These are the best ""wheat"" free cookeis.<br />This was a great price and availabiltiy.<br />Would lo...",5,[],[],0.605,Positive
+I was disappointed with this produce; the nuggets are harder than I thought they would be. On the up...,3,[],[],-0.062,Neutral
+"I bought these for a ""candy bar"" for a holiday party.  They were a great hit!  I would purchase agai...",5,[],[],0.588,Positive
+"This is a nice little popcorn, but besides the fact that the kernels are smaller than other popcorn,...",3,[],[],0.181,Positive
+I PURCHASED THIS FOR MY DAUGHTER WHO CAN'T GET ENOUGH GUACAMOLE. SHE HAS TRIED VARIETY OF MIXES AND ...,5,[],"[""EMERIL'S."", 'NEED', 'AVACODO', 'LOL']",0.195,Positive
+The good: the beef is cut thickly and has a steak-y taste.<br />The bad: the jerky is extremely salt...,3,[],[],-0.078,Neutral
+I love blow pops. They taste great and last a long time. They have a big problem. It's very difficul...,3,[],[],0.107,Positive
+My dogs have been eating liver treats for years.  We also use the treats for training.  The treats a...,5,[],[],-0.01,Neutral
+Absoutely delicious. They taste the way nutter butters should taste (or the way I remember as a kid)...,5,[],['PB'],0.377,Positive
+"Supposedly increases milk production? Yeah, I didn't see a difference after drinking this for a good...",2,[],[],0.603,Positive
+Posting this on behalf of my husband who wrote this and is the coffee drinker in the family...<br />...,5,[],['Compatibility - Exceptional'],0.172,Positive
+"I found that this tea really helped increase my milk supply. It tasted a little funny at first, but ...",5,[],['Amazon'],0.141,Positive
+"This french vanilla delight is warm and soothing on a cold winter day, or even a not so cold day.  I...",5,[],['Amazon'],0.069,Neutral
+"Love this brand... so very good for you.  Try on french toast, pancakes and the like.  Made Challah ...",5,[],['Craker Barrell'],0.341,Positive
+"I ordered the Cafe Escapes Milk Chocolate Hot Cocoa KCups for Keurig Brewers, and I reieved a phone ...",5,[],['K-Cups'],0.326,Positive
+I have a small collection of finishing salts that I use for different things. This one is my favorit...,5,[],[],0.109,Positive
+"This item is and was very useful during the holidays and everyday now, because it saves the use of h...",5,[],[],0.158,Positive
+"I like this over cheesecloth for sure, almond milk is now smooth enough for my coffee.",5,[],[],0.3,Positive
+we searched everywhere to find this jerky.  It is the best on the market and they ship very quickly....,5,[],[],0.422,Positive
+I agree with Shelley's review. Many of the gummy pieces were melted into an unrecognizable mess. Abo...,1,[],[],-0.144,Negative
+"Having switched to decaffeinated coffee two years ago, I have always been on the look out for great ...",4,[],[],0.9,Positive
+"I'm not typically a chocolate person, but these are the most divine chocolates I have ever had! Thes...",5,[],[],0.262,Positive
+I bought 3 doggy products at the same time (all treat dispensing chew toys). This is my recommendati...,3,['3.<br'],['the Tug a Jug'],0.258,Positive
+We received these Omaha Steaks brand Coconut shrimp as a gift. I like coconut is some preparations (...,2,[],"['Omaha Steaks', 'Coconut']",0.152,Positive
+I purchased this Citric Acid to use in my homemade dishwasher soap & washing detergent.  I have seve...,5,[],"['soap & washing', 'Citrashine']",0.226,Positive
+"I am so glad to have found Davidson's rooibos tea at Amazon.  It is great tea, and so much less expe...",5,[],['Amazon'],0.11,Positive
+The Crystal Light Green Tea Peach Mango is really great tea with an outstanding flavor. I love this ...,5,[],[],0.471,Positive
+"Dude, they're Reese's Cups.  If you need to read a review that probably means you've never had one. ...",5,[],['Chocalate'],0.0,Neutral
+OMG!!!  This has to be the best chocolate bar that I have ever come across in my taste tests of diff...,5,[],['OMG'],0.275,Positive
+These little squares of flavour store easily and for a long time. Just a few in a pot of soup add a ...,5,[],[],0.238,Positive
+"This item seems like a great idea...a convenient, and non-messy way to carry treats for the dog.  It...",1,[],[],0.193,Positive
+It is a spicey energy drink! If you like spicey stuff you will more than likey like this stuff! It i...,5,[],[],0.348,Positive
+This is the third Ghee I have tried off of Amazon. I have to say that this is my least favorite. Two...,2,[],['Amazon'],0.127,Positive
+The smell and taste of the Lickety Stik was an instant success with our dog.<br />But the dispensing...,2,[],['Golden Retriver'],0.341,Positive
+As a raw foodist I am always looking for foods that are both delicious and truly nourishing.  These ...,5,[],[],0.265,Positive
+The taffy I remember was more elastic and this taffy is extremely soft.  That might be seen as a goo...,2,[],[],0.412,Positive
+My mom and son love the flavor of this hot chocolate. Add a little bit of milk afterwards and 1 sple...,5,[],[],0.291,Positive
+I ordered this because I really like this brand and I have never had any issue with them.  My son us...,1,[],[],-0.071,Neutral
+This is a product that goes beyond the 5 Star review - The bars are absolutely delicious.  I just or...,5,[],[],0.5,Positive
+"First, I have to admit that when I was offered this coffee to review, I saw that there were 15 singl...",5,[],['Fair Trade Certified'],0.27,Positive
+"First, let me start off by saying I appreciate anyone's right to  make a buck.  You create a good pr...",3,[],"['Sonic & Sleep', 'Gasm']",0.148,Positive
+My family has two chihuahuas. I tried the dog treat on the two of them today and got different react...,4,[],[],0.305,Positive
+"Azteca Fire isn't as spicy as it claims, and that's not a bad thing. It's complex, chocolatey and de...",5,[],[],0.387,Positive
+"This coffee is good, and because it is organic, it is worth the price. It's got a nice, round flavor...",4,[],[],0.268,Positive
+This tea is amazing!  What an easy way to help align and acknowledge your chakras!  All of the flavo...,5,[],[],0.764,Positive
+A lot of tuna at a great price. Exactly what I was looking for. Haven't noticed any taste difference...,5,[],['Amazon'],0.139,Positive
+"This was a gift to our son-in-law and from what I understand, he really enjoyed it -- rich, full-bod...",5,[],[],0.258,Positive
+This was my first time ordering from New Grains and I absolutely love this bread!  I practically ate...,5,[],[],0.452,Positive
+"Very good baby food, good taste and texture.  The baby gobbled it down and I snuck a taste to find i...",5,[],[],0.559,Positive
+These taste great! Even better when heated in the microwave! You can really taste the banana and it ...,5,[],[],0.57,Positive
+"I've tried almost every green tea on the market, and this is one of my favorites.  It has a great fl...",5,[],[],0.233,Positive
+"BLUE RUNNER BEANS ARE, IN MY...AND MY WIFE'S(AND SHE'S FROM NEW ORLEANS) OPINION, THE VERY BEST RED ...",5,[],"['BLUE RUNNER BEANS ARE', 'SALT', 'POUR', 'YUM']",0.198,Positive
+"If you have a difficult dog like me, then this is the item for you! My dog hates people besides us a...",5,[],[],-0.121,Negative
+You know this stuff tastes really good... once you get it to dissolve. I suppose if you have a food ...,4,[],['Erythritol'],0.095,Neutral
+"Buying Red Vines in the tub like this has been very good, I set them out in my office & people enjoy...",5,[],"['Buying Red Vines', 'Amazon']",0.582,Positive
+"The ingredients listed are NOT for this particular recipe! The lamb, barley mix does not include chi...",1,[],[],0.052,Neutral
+Yummy Yummy - love this snack!  slight olive oil taste is delcious and salted just right!  I might n...,5,[],[],0.302,Positive
+I liked these and will buy again.  They taste good and last in your system so that you don't feel hu...,5,[],[],0.44,Positive
+"I don't know what Bahlsen was thinking over the last several months, but I looked high and low for t...",5,[],['Amazon'],0.111,Positive
+It seems there is never a place where I can buy a good 100% Kona here in the States. At last I found...,5,[],[],0.479,Positive
+The reviews were helpful.I still wanted to try them.You must have something to dip these in.Excellen...,4,[],[],0.0,Neutral
+This is not the true Danish brand for sugar cookies. The sugar crystals looked and tasted like sand ...,1,[],['Costco'],0.155,Positive
+I love the way it makes the house smell whenever I make this coffee.  My husband drinks a pot of it ...,5,[],[],0.5,Positive
+"Of all the brands of Earl Grey, Stash is my favorite.  The double bergamot is the best.  The flavor ...",5,[],[],0.08,Neutral
+"I love Zero.  It's the only thing that tastes good in tea.  It may take just a little bit more, but ...",5,[],[],0.296,Positive
+I have tried many Keruig flavors from a varity of companies.  Really enjoy this flavor. Try it your ...,5,['Keruig'],[],0.5,Positive
+These beans are sweet and tasty and the maple accent makes them perfect on toast for breakfast in th...,5,[],[],0.199,Positive
+"On the middle or 'mug' setting of the Keurig B-70, Donut House didn't hold a candle to Emeril's Big ...",3,['the Keurig B-70'],"['Donut House', ""Emeril's Big Easy Bold k-cup"", 'Donut House']",0.241,Positive
+I'm having a cup of this coffee as I am writing this review. It was the deal most of all that made m...,4,[],[],0.42,Positive
+My son has eaten cereal since he was 3 months old. He ABSOLUTELY LOVES this cereal. Its consistency ...,5,[],['GI'],0.329,Positive
+These taste more like a treat than a health bar.  It's hard to believe they're good for you.<br /><b...,5,[],['Kashi'],0.392,Positive
+"This product did not meet my expectations. After trying it for only two days, I disposed of it. Didn...",2,[],"['Amazon', 'Splenda']",0.0,Neutral
+The taste is great. I like it. But the cover is not good. It is easy to spread some oil on the top o...,4,[],[],0.277,Positive
+"Healthy Cereal!<br /><br />I love cereal though I rarely eat it as one is supposed to, generally pre...",4,[],[],0.223,Positive
+This product is as close as youre going to get to chopping a coconut off a tree and cutting it open....,4,[],[],0.225,Positive
+My dogs refuse to eat the light green hard side of these treats. They do enjoy the soft dark green s...,2,[],[],0.101,Positive
+"Well, here I am, buying my SECOND 12-pack of these treats.<br /><br />My Egyptian Mau is absolutely ...",5,[],"['NUTS', 'Amazon', 'Subscribe & Save', 'Amazon']",0.209,Positive
+"This tea is best for you if you hane any problems losing wieght with your immune system,this is an a...",5,[],[],1.0,Positive
+I bought this as an alternative to the sea salts that I normally purchase.  I find that the salt doe...,2,[],[],0.094,Neutral
+This maple syrup is delicious and so flavorful -- Did you know grade B maple syrup has so many vitam...,5,[],[],0.4,Positive
+"The strips of jerky are thinner than average and it tasted good, it was a little too salty for my ta...",4,[],[],0.184,Positive
+So tasty and savory on just about every vegetable/meat/fish you can come up with!<br /><br />Natural...,5,[],"['caramel', 'MSG', 'Kikkoman', 'Kikkoman Soy Sauce', 'MSG']",0.031,Neutral
+"After reading over the reviews for several different coffee brands and flavors, I decided to go with...",5,[],[],0.368,Positive
+This Black Pudding has me floored. You cannot get any closer to buying real Black Pudding unless you...,5,[],['TESCO'],0.122,Positive
+Great value and just as good as the other top brands.  It deserves a chance.  Give them a try and yo...,5,[],[],0.225,Positive
+My dogs love this treat and it is great for them because they have food allergies and cannot eat mos...,5,[],[],0.485,Positive
+"Okay, I love this stuff; it's great to use in numerous dishes as a flavor enhancer. So, why am I wri...",5,[],"['MSG', 'MSG', 'MSG']",0.148,Positive
+For those of you who are freaked out about a little expiration date on the coffee... are you SERIOUS...,5,[],[],0.122,Positive
+"I love wehani, have eaten it for years and go out of my way to find/buy it.  Have never had a guest ...",5,[],[],0.246,Positive
+I had used product by this manufacturer before.  I used their coconut oil for frying and seasoning f...,5,[],[],0.171,Positive
+"I'm hesitant to give this too good of a review, because I don't want the whole world buying it and t...",5,[],[],0.205,Positive
+"Superior flavor, not too green, not too black. Loved it from the first cup.I put a hint of Splenda/S...",5,[],"['Splenda/Sugar', 'Amazon']",0.223,Positive
+I love the honey stinger waffles. Great price. And will deff will order more when I run out. Love th...,5,[],[],0.5,Positive
+"I LOVE this candy! Since my weight-loss surgery, I can't eat more than 2 grams of sugar at one time....",5,[],[],0.213,Positive
+Bob's Red Mill Baking Soda is an excellent product for baking with or making your own toothpaste.<br...,5,[],"['the Specific Carbohydrate Diet', 'ASD']",0.359,Positive
+"There is nothing metallic about this color. It is gold in the fact that it is yellow, but that is it...",1,[],[],0.0,Neutral
+"Although this is an herbal tea (from the South African red bush), it is full-bodied and rich enough ...",5,[],[],0.117,Positive
+Love these ginger candies I just can't get enough of them.  Not all ginger candy is the same...  Tin...,5,[],[],0.375,Positive
+My little Chi-hua-hua is very picky and she just loves these.  I like them because they provide her ...,5,[],[],0.145,Positive
+We love these candies.  Probably the very best sugar free hard candy made.  Try them you will love t...,5,[],[],0.456,Positive
+"We bought a case of these based on the positive reviews, but quite frankly no one who has tried it h...",2,[],[],0.252,Positive
+The cheese arrived on time and could not wait to a taste test. It was great.  If you like smoked Gud...,5,[],[],0.68,Positive
+"In my opinion these are a poor substitute for a ""real"" pretzel. They have a potato-y taste and an od...",2,[],['Snyder'],0.152,Positive
+"The nutritional benefits of extra virgin olive oil are legendary. But the robust flavor of Pompeian,...",5,[],[],0.5,Positive
+"I used to love this tea, it is not as strong as it used to be...  The price has been increasing........",3,[],[],0.127,Positive
+"Besides fries, try making garlic bread. Just spread texas toast with butter, sprinkle on and put in ...",5,[],[],0.14,Positive
+Recevied the Greenies before the expected delivery date.  Great value compared to the pest food stor...,5,[],[],0.533,Positive
+"These were tasty cookies. Tart and just a little sweet. Part of the purchase goes to charity, so I'm...",4,[],[],0.263,Positive
+I just bought these for the first time. WOW! They are wonderful--not at all  something that simulate...,5,[],['WOW'],0.249,Positive
+I discovered this product when I bought a fresh-made sandwich from a grocery store deli.  I asked th...,5,[],"['Heinz Southwest Style Chipotle Sauce', 'the deli department', 'Heinz']",0.317,Positive
+I purchased these on Auto-Ship. Unfortunately I didn't think the order went thru & pushed it again. ...,1,[],[],-0.026,Neutral
+"I tried this on my mom's dog while he went through his resume of tricks, but since his mouth is bigg...",3,[],['the Lickety Stik'],-0.15,Negative
+Wife loves it!  Great special gift that takes the place of a box of chocolates.,5,[],[],0.579,Positive
+This is the third Taco Bell sauce I've tried and I'm not disappointed in its claim of boldness.  I t...,5,[],"['Taco Bell', 'mayo', 'Taco Bell']",0.175,Positive
+"*Chocolates*: I've always been more inclined to dark chocolates, but this place's white chocolate ga...",5,[],[],0.195,Positive
+"I recently ran out of my Senseo Pads that I normally purchase in Germany. As I was going to America,...",3,[],"['Coffee (Starbucks', 'Decaffeinated']",0.167,Positive
+These popchips both taste and smell horrible. I was very let down as I enjoy most if not all the var...,3,[],[],-0.016,Neutral
+I bought these based on the good reviews of others and was disappointed.  They are way over seasoned...,2,[],[],0.142,Positive
+"Good flavor, not too sweet or artificial tasting. Makes it easy to take down when chugging along on ...",4,[],[],0.047,Neutral
+"I really don't know how to describe these.  They are good, great actually.  But they are not a Heath...",5,[],[],0.425,Positive
+"Having been out of the US for a while, there are some things I have definately missed.  I've even hu...",5,[],['Amazon'],0.232,Positive
+Have always enjoyed Balsen products. Found  the nuss-dessert cookies while on vacation at Sanibel Is...,5,[],['Amazon'],0.448,Positive
+"When my friends recommended me to try some peanut butter & chocolate, I didn't know it would be this...",4,[],[],0.25,Positive
+I'm no connoisseur of balsamic vinegar but this stuff tastes great. No need to say much more!! But a...,5,[],[],0.526,Positive
+"Upon opening the waxed cardboard box the Ghee was shipped in, I found nothing but a gooey mess.  One...",1,[],['Amazon'],-0.035,Neutral
+"I love this product.  I am on a low-carb diet, and if you are low-cal or low-carb this one will cut ...",5,[],[],0.197,Positive
+"Before purchasing anything from Lous bonsai, check out the reviews on the Internet, not the ones he ...",1,[],[],-0.47,Negative
+"I have two cats, one under 1 year old and the other is 4 years old. After researching about proper c...",5,[],"['Wellness', 'Wellness']",0.086,Neutral
+"THE YAMAMOTOYAMA RASBERRY FLAVORED ICED GREEN TEAIS AN AWESOME PRODUCT, HAS A NICE SMOOTH TASTE AND ...",5,[],['VANILLA FLAVORED ICE CREAM'],0.436,Positive
+I found RJ's Licorise while on a trip to New Zealand earlier this year.  WOW! This product is incred...,5,[],['WOW'],0.197,Positive
+"The coffee is smooth and has a good flavor, however the chocolate is very subtle - in fact it is bar...",4,[],[],0.179,Positive
+"Made aware of GREEN Darjeeling by a present; looking for a replacement, found this online; Unbelieva...",5,[],['Unbelievably'],-0.066,Neutral
+I send my son to school with this coconut water as a healthier choice than the juice box for school ...,5,[],['Amazon'],0.364,Positive
+"If you've never tried Almond Rocha, you're missing out on one of the joys of life.  Buttercrunch tof...",4,[],[],0.099,Neutral
+With four cats in the household hairballs are a given. It got to be an almost daily routine to hear ...,5,['Subscribe'],"['Temptations', 'Amazon']",0.188,Positive
+"Very, very good.  Refreshing and thirst quenching.  I Love It.  If you like Grapefruit, you'll like ...",5,[],"['Grapefruit', 'SodaStream']",0.652,Positive
+"Love the taste of this sauce. We have been using this for over a year. Great price, good quality, us...",5,[],[],0.6,Positive
+First let me say that I wish I could tolerate apple juices that taste more like cider.  I can't; tha...,5,[],['Anyway'],0.325,Positive
+"Great tea to boost your immune system, it also works as stress reliever, the tulsi or holy basil is ...",5,[],[],0.329,Positive
+I am drinking two cups of this a day.  Tastes good.  It would be nice if it came without the string ...,5,[],[],0.044,Neutral
+"Similac travel bottles are an excellent, convenient way to travel with your child without the worry ...",5,[],[],0.44,Positive
+I bought this tea thinking it would taste like a rose. I was only half right. While the rose flavor ...,4,[],[],0.222,Positive
+Awesome variety! Wish there were a few more k cups in the pack but they all taste great! I'd recomme...,4,[],[],0.43,Positive
+"I don't diet and luckily I'm not a diabetic, but I also don't see the point in extra calories for no...",5,[],[],0.11,Positive
+This product is truly amazing.  I use it every day on my arms to help add moisture to my dry skin.  ...,5,[],[],0.273,Positive
+"This dog food is absolutely wonderful.  If I could afford to, I would feed my dog only this.  My 2 y...",5,[],[],0.13,Positive
+Product works great fleas get trapped and cant get loose .They have put an end to my flea problem bu...,5,[],[],0.081,Neutral
+"Don't give up if you don't see these on your store's regular cracker shelves.  Kroger, e.g., carries...",5,[],['Kroger'],0.039,Neutral
+If your focus is health and nutrition you can't go wrong with this product.<br /><br />One of the fi...,5,[],"['GI', 'GI']",0.15,Positive
+"This is a delicious, slightly sweet coffee with a hint of cinnamon.  The shipping time was excellent...",4,[],['Amazon'],0.838,Positive
+This is a very nifty carousel for my Tassimo t-discs.  Everything fits very nicely and the product i...,5,[],[],0.405,Positive
+Bought this at a natural foods store and was at first worried when I saw the texture as it came out ...,5,[],[],0.41,Positive
+Coffee has very smooth taste.  I had to do some research as to how to use the pods.  Best way I foun...,4,[],[],0.423,Positive
+"A good, strong, but not bitter blend.  Might be a bit strong for some, but they have other varieties...",5,[],[],0.298,Positive
+"I have for years taken lots of caffeine, in the form of stay awake kind of pills, and in the form of...",5,[],[],0.175,Positive
+I ordered this not realizing it was decaf. The coffee is not exactly robust.  I like the Barista and...,1,[],['Starbucks'],-0.021,Neutral
+"Got a 12 pack of these on Amazon Warehouse Deals for $6. @ $.25 per egg, they're a good deal but the...",3,[],['Amazon Warehouse Deals'],0.24,Positive
+My elderly lab suffers from arthritis.  Her pain is greatly diminished by taking glucosamine and cho...,5,[],"['Hip Action', 'the Hip Action']",0.071,Neutral
+"I enjoy eating ramen, and noodles in general, and since the powers-that-be took away our lunch break...",5,[],['Myojo'],0.08,Neutral
+This green tea has great strong flavor even when brewed at the largest size. We love it!,5,[],[],0.415,Positive
+A friend brought these when he came to visit from Belgium they are so delicious that I'm ordering mo...,5,[],[],0.833,Positive
+"For decades I have cooked barley the long way - simmering for almost an hour, watching the pot so it...",5,[],[],0.171,Positive
+"These are really, really good.  You wouldn't know that they were missing most things that make cooki...",5,[],[],0.465,Positive
+This item would probably be great if it didn't feel and taste like sand in your mouth! I couldn't ch...,3,[],[],1.0,Positive
+I set up a little coffee shop for myself on top of my washing machine!  Wonderful motivation to get ...,5,[],['Senseo'],0.18,Positive
+The sauce is OK flavor but it takes a lot of sauce to get it to thicken. Bring the water to a boil a...,3,[],[],0.5,Positive
+These cookies are excellent!  I like all the flavors in this brand but this one is probably my favor...,5,[],[],0.812,Positive
+"As the title says, I love Corn-nuts dearly.  They are probably my favorite snack, right next to beef...",5,[],"['Snickers', 'Sell']",0.141,Positive
+"I have ordered from this company before, and I always receive very quick, reliable service. The prod...",5,[],[],0.498,Positive
+I absolutely LOVE the taste of these Cinnamon Brown Sugar Roasted Almonds - in fact I just can't sto...,5,[],"['LOVE', 'Cinnamon Brown Sugar Roasted Almonds -']",0.473,Positive
+The above says it all--after much searching we finally found an Earl Grey that lives up to its name....,5,[],['EG'],0.135,Positive
+"I'm baking bread with the ""Artisan Breads in 5 Minutes a Day"" book.  Just an observation:  I seem to...",4,[],"['the ""Artisan Breads', 'Fleischmann']",0.35,Positive
+I just started buying this product. It is not available in local stores. I went to Target last Sunda...,5,[],"['Target', 'Amazon', 'Target', 'Target', 'Amazon']",0.204,Positive
+Don't buy this product.  I read the reviews that said the product was stale and they all appeared to...,1,[],['Amazon'],-0.094,Neutral
+"To be fair, I should say that I haven't ordered these cookies from Amazon.com yet, so I can't speak ...",5,[],['Amazon.com'],0.301,Positive
+I purchased these so If I dont want to make a pot of coffee I can still have a great cup -I keep a f...,5,[],[],0.3,Positive
+I found a recipe for chili that looked really good. The only difference in this recipe is that it re...,5,[],['Amazon'],0.507,Positive
+I've been searching for a good source of figs since coming back from Oregon. all the ones I've found...,5,[],['Amazon'],0.205,Positive
+These are the absolute best sweet and hot Jalapenos on the market....and we've tried several of them...,5,[],[],0.362,Positive
+"These chips taste awesome. And unlike most other flavored chips, they actually make sure that plenty...",5,[],[],0.247,Positive
+Coffee Storage Drawer Holds 36 Keurig K-cup Pods by DecoBros®: This is a great addition to my kitche...,5,[],['Coffee Storage Drawer Holds'],0.364,Positive
+Was really surprised at the size of the plant and would order from this company again.  Packed very ...,5,[],[],0.15,Positive
+"I have a Jack Russell Terrier who loves these dog treats...he is a very finicky eater, but he can't ...",5,[],[],0.33,Positive
+"I'm sorry all the stores seem to have discontinued this product -- but with Amazon.com, you can buy ...",5,[],['Amazon.com'],0.113,Positive
+Bought this for my son who is lactose intolerant and he just loves it.  The taste is great and the p...,5,[],[],0.505,Positive
+"One little bottle of this (and they are little), and I had a gallbladder flare-up. I didn't get any ...",2,[],[],-0.125,Negative
+"I ordered these cookies for my husband as he's diabetic and loves peanut butter treats, so it was no...",5,[],[],0.374,Positive
+"I like to add a little flavoring to my Columbian coffee, but I don't like anything overpowering. I h...",5,[],['Starbucks Vanilla Flavored Coffee'],0.38,Positive
+"I have tried all kinds of dried tomatoes, and had concluded that people who like them must be crazy....",5,[],[],0.153,Positive
+This was the 2nd time I tried Pamela's bread mix & it's the closest to regular bread that I have fou...,5,[],['Great Product'],0.267,Positive
+"The top of the line of Jim Beam's Small Batch Collection, Bookers is a 127.9 proof monster (at least...",5,[],"[""Jim Beam's"", 'Small Batch Collection', 'Bookers', 'Booker', 'Alcohol', 'Bookers']",0.148,Positive
+"First a comment on the Natural Flavor - As many other reviewers have noted, the natural popcorn is a...",5,[],"['the ""Sweet & Salty']",0.284,Positive
+I have almost every other TB sauce and bought this to add to my sauce collection.  It's thicker than...,4,[],"['TB', 'TB']",-0.125,Negative
+I love these Chiclets! I do not go for sugar free gum and that seems to be the only choices these da...,5,[],[],0.205,Positive
+I love the crunchy version of the rebar. It is very filling as well. A great way to get your veggies...,5,[],[],0.389,Positive
+"I've tried a lot of different beef jerky products, including <a href=""http://www.amazon.com/gp/produ...",5,[],['Amazon'],0.384,Positive
+I love blackberries and blackberry flavor. It is a very tricky taste to impart as I have found in my...,4,[],['Izze'],0.3,Positive
+The Royal Oak Virginia Salted Peanuts are great. I would highly recommend these<br />and will reorde...,5,[],['The Royal Oak Virginia Salted'],0.32,Positive
+Not Blenheims (the gold standard in apricots :) but I have had far worse than these. The fruits are ...,4,[],[],0.144,Positive
+"I would buy this pasta even if I weren't carb conscious.  Made from an italian recipe, the result is...",5,[],[],0.023,Neutral
+"Counting rescue kitties I have 13 cats that I ""treat"" on a daily basis and not a one turns their nos...",5,[],[],0.083,Neutral
+All boxes were fresh. The bran part gets soggy pretty quick and the raisens tend to sink to the bott...,5,[],['Raisen Bran Crunch'],0.381,Positive
+"Green Mountain ""Nantucket Blend"" K-Cups make a very good cup of coffee in my <a href=""http://www.ama...",5,[],"['B-40 B40 Elite Gourmet', 'People, Donut Shop K-Cups', 'Amazon Frustration-Free']",0.278,Positive
+These coco nibs have a very satisfying chocolate taste without added fat and sugar. I add 1/4 cup to...,5,[],[],0.207,Positive
+"I am always on the lookout for a healthier not too sweet but crunchy & tasty little snack, and I cam...",5,[],[],0.288,Positive
+We gave our dog 2 of these treats and they made him ill all night...I will spare you the details but...,1,[],[],-0.2,Negative
+"I LOVE these fruit strips. One review said that they were a brown color, ""nothing like the red pictu...",5,[],[],0.164,Positive
+I make 3 to 4 2-lb loaves every week. I make enough grocery store runs for flour; it's nice not to b...,5,[],[],0.48,Positive
+"Ive enjoyed the coffee. I was a little skeptical but the coffee tastes great, the pods work great an...",5,[],[],0.23,Positive
+These are great as I use them in chicken Tajine. One bottle leaked all over the inside of the shippi...,5,[],['Tajine'],-0.032,Neutral
+"After reading all the positive reviews, I was really looking forward to finally getting a very low c...",1,[],[],0.066,Neutral
+Monin Peach Flavored Syrup tastes great!  I was looking for a syrup to imitate the flavor of the pea...,5,[],['Monin Peach'],0.585,Positive
+Someone recommended using dutch cocoa for my Christmas baking this year.  I am so glad they did!  It...,5,[],[],0.346,Positive
+The flavor of the salt is very nice ! Purchased it upon reading about it's many health benefits. The...,5,[],[],0.387,Positive
+"These are my favorite cookie.  Crunchy and then melt in your mouth, with little pieces of ginger.  I...",5,[],[],0.133,Positive
+"I ordered these noodles after reading about them on Hungry Girl.  Yes, they smell when you open them...",4,[],[],0.083,Neutral
+I sent this to a friend and with free shipping who can beat the price. My mom saw it and said it was...,5,[],[],0.467,Positive
+"So so good that my dad who is very hard to please, asked me if I could write the company and get the...",5,[],[],0.274,Positive
+Save on money. buy this hot chocolate in bulk. Its sooo good and great anytime.,5,[],[],0.583,Positive
+"These bars are one of the best tasting when it comes to gluten free, healthy-ish protein bars.  The ...",4,[],[],0.329,Positive
+It is very close to the flavor of the barbecue sauce that you get in American-Chinese restaurants; i...,5,[],[],0.2,Positive
+"The first thing I look for in a water is the aftertaste.  Some of them have a metallic, nasty taste ...",4,[],[],-0.106,Negative
+"I was happy to find these on Amazon, it's my cat's preferred treat! I give them to her while I'm eat...",4,[],"['Amazon', 'Amazon']",0.17,Positive
+"In June, my co-workers hosted a cupcake-themed birthday party for me. A co-worker who baked more tha...",5,[],"['TMJ', 'Amazon', 'TMJ', 'TMJ', 'Amazon']",0.306,Positive
+I am not GF but my 7 year old daughter is and I like to try everything with her.  She almost did not...,5,[],"['STARBUCKS', 'Whole Foods']",0.314,Positive
+"My unmanageable mane of hair currently falls to the middle of my back.  It's very fine, tangles easi...",4,[],"['Cheaper', 'Shea']",0.184,Positive
+"I have not found a bad ""Keurig"" coffee version yet.  This one included. Since receiving my machine I...",5,['Starbucks'],['Starbucks'],0.119,Positive
+Chips are great.  My 11 year old son loves them in his lunch too.,5,[],[],0.45,Positive
+This gluten free granola is absolutely delicious.  Everyone who has tried it (gluten intolerant or n...,5,[],[],0.479,Positive
+I don't understand why these are from China if the nuts are from California. What a waste and not a ...,3,[],[],-0.069,Neutral
+Couldn't believe these. Almost all (at least 80%) are whole nuts. Waited to write this review until ...,5,[],[],0.227,Positive
+"This is a tasty tea with a purpose; however, it really doesn't work for me as well as it does for th...",3,[],[],0.45,Positive
+"I really wanted to disagree with customer Wallace about this, and decided to take the plunge anyway ...",1,[],"['PEEL', 'Pink Grapefruit', 'Amazon']",0.11,Positive
+Not long ago my husband and I went to a small coffee shop for breakfast. We ordered almond flavored ...,5,[],['Success'],-0.045,Neutral
+I was pleasantly surprised by the taste of the Chipotle Sauce.  It is kind-of like a spicy mayonnais...,4,[],['the Chipotle Sauce'],0.467,Positive
+"Barbara, if you read your reviews, please listen.  Your cereal doesn't taste the same as it used to....",2,[],[],0.055,Neutral
+"I tried this product to see if I could make creamy, starbucks quality spiced chai at home and was un...",3,[],[],0.5,Positive
+These are so delicious and healthy. They are a great snack for eating while in the car.,5,[],[],0.767,Positive
+"A refreshing cold beverage and a soothing, perfect, hot cup of tea. Offers healthful benefits.",5,[],[],0.25,Positive
+"I first saw this in Ross, strange place for dog food but I grabbed one. My dog loved it so much. I h...",5,[],['Amazon'],0.138,Positive
+"this pineapple product is wonderful. However, I wish they had smaller cartons, 12 bags is way too mu...",5,[],[],0.333,Positive
+This is very misleading. If you read up on it the Wilton website admits this is will not harden and ...,1,[],['Royal Icing'],0.246,Positive
+"After trying many products, the Papa's Loaf is a product, that in my opinion, comes closest to regul...",4,[],[],0.35,Positive
+I purchased popcorn from Discount Tommy twice now...The popcorn packets are great and easy to use in...,5,[],[],0.456,Positive
+I buy these for my elderly grandfather who needs to watch his salt and fat intake.  He loves them an...,4,[],[],0.046,Neutral
+these are the best chips out there.. nothing can beat this taste. if you like honey mustard then you...,5,[],[],0.5,Positive
+I decided to try Tully's brand French Roast and Medium Roast decaf coffies in Kcups from my local St...,5,[],"['Kcups', 'Amazon.com', 'dates)<br', 'Amazon', 'Starbucks']",0.149,Positive
+The aged white cheddar Pirates Booty is hands down one of my favorite dry salty snacks.  I've been e...,5,[],"[""Pirate's"", 'Booty']",0.111,Positive
+It was a nice product with a value price what can I say but great job and thank you,4,[],[],0.7,Positive
+"The Licorice spice tea is fragrant and delicious.<br />I was given some to try, and was so excited a...",1,[],"['Licorice', 'amazon.com', 'Blood', 'Premium Licorice Spice Herbal Tea']",-0.059,Neutral
+"I really love this Hot Chocolate. First found it in Whole Foods and bought it as it was organic, fai...",5,[],['Whole Foods'],0.305,Positive
+pros:<br />+ resistant to overbrewing (getting bitter) when left to steep for long periods of time<b...,2,[],"['Yamamotoyama-Loose-Sencha-Green-7-Ounce/dp/B003XUL1MK/ref', 'UTF8&qid=1331447807&sr=8-5']",-0.009,Neutral
+"Smarties Bubble Gum is soft to chew, sweet as the sun is hot, and makes great bubbles. The flavor la...",5,[],[],0.425,Positive
+Great price compared to the supermarkets.  My dog loves these and they seem less processed than most...,5,[],[],0.3,Positive
+I tried the Fog Chaser. It was rich and satisfying. I stored the yet-to-be-used pods in a ziplock ba...,5,[],[],0.299,Positive
+The dark chocolate in this product combined with various liquors is delicious. I wish I could buy th...,5,[],[],0.57,Positive
+"We have several cats, one of which has had a vomiting problem for many years.  We tried many cats fo...",5,[],"['Science', 'the Science Diet']",0.331,Positive
+"I prefer my own homemade chili using Worthington Vegetarian Burger, but these are pretty good for a ...",4,[],['Worthington Vegetarian Burger'],0.417,Positive
+"Yes, I know. It says ""vanilla"" and you expect it to taste like vanilla. What am I complaining about?...",3,[],[],0.173,Positive
+I'm amazed how many are being so easily fooled.  What you're seeing is a GENERIC ingredient list tha...,5,[],['Ethyl Acetate'],0.276,Positive
+So tired of washed-out tasting tomatoes in the produce section all winter... and WOW!  These tomatoe...,5,[],['WOW'],0.265,Positive
+"I love tea and have been a tea drinker since childhood. When I had my first sip of tea, I knew tea w...",5,[],['Lipton'],0.268,Positive
+I finally got around to reading the Ovaltine container to see why this tasted thinner.  What do you ...,1,[],['Ovaltine'],0.261,Positive
+"This year, I have been plagued with allergies and hay fever more than ever. Reluctantly, I have take...",5,[],['Amazon'],0.224,Positive
+Wow made from corn and may contain soy?  That's a double whammy of frankenfood!  I'm sure if people ...,1,[],['Kelloggs'],0.064,Neutral
+"The mix tasted terrible, no matter how much tequila and lime juice used. Yo are better off to purcha...",1,[],[],-0.1,Negative
+"I highly recommend Kind Plus protein bars. They're tasty, satisfying and get me through a workout or...",5,[],[],0.311,Positive
+WE ENJOY FEEDING OUR DOGS THIS GREAT FOOD AND IT IS NICE TO KNOW THAT IT ISN'T FILLED WITH FILLERS O...,5,[],[],0.437,Positive
+This stuff is incredible...put it on pork chicken (or any meat really) especially as you're cooking ...,5,[],[],0.006,Neutral
+I give this 5 stars because I was notified immediately that there was a delay in my order and when I...,5,[],[],0.243,Positive
+I'm not computer savvy but Amazon.com has the quickest shipping and really cared about my satisfacti...,5,[],"['Amazon.com', 'Amazon.com']",0.273,Positive
+good moist satisfying cookie. I like these cookies because they are natural but still taste good and...,4,[],[],0.304,Positive
+A lot of the reviews claim that some of the pieces were hard or dry. Every package of jerky is going...,5,[],[],0.108,Positive
+I first ate Alpen many years ago and now I eat the no sugar added version.  It has been available lo...,5,[],"['Whole Foods', 'Amazon.com']",0.336,Positive
+LOVE these crackers. I eat them as much as my kids do! My kids tend to pick out the chocolate chip b...,5,[],[],0.406,Positive
+this is exactyl what i have been searching for for over a year.  it was availabe for a while in my l...,4,[],[],0.1,Neutral
+"must correct my critique. cellas i got from lakewood candies were stale , out of date 6 months. shou...",1,[],[],-0.5,Negative
+"The coffee was (and still is) my favorite coffee.  It was<br />as good as I expected, and I would or...",5,[],['LOTS'],0.375,Positive
+"These cookie bars are good for a wheat-free alternative, but as far as overall taste goes I can take...",3,[],[],0.267,Positive
+This gravy is great over mashed potatoes and also terrific when you add a couple of packets to a big...,5,[],[],0.2,Positive
+"This is a great snack when you are on the go!  It's satisfying and sweet.  It is a little sticky, bu...",4,[],['LOVE'],0.352,Positive
+I was thrilled to find this tea. It has a wonderful robust flavor. Do yourself a favor and go to you...,5,[],[],0.426,Positive
+"These are the best ginger candies/chews I've ever tried.  The ginger flavor is stronger, and more in...",5,[],[],0.403,Positive
+This coffee is great while on the go or just wanting a cool refreshing Cup of Joe and a warm day.,5,[],[],0.562,Positive
+I am not happy with the Organic Liver for dogs.  It is too mushy and should be mixed with dry food. ...,2,[],[],-0.161,Negative
+My two little dogs have better breath and their teeth look whiter.  Small dogs have lots of dental p...,5,[],[],0.021,Neutral
+"I love coffee.<br /><br />I drink it in the morning, in the afternoon, and right before bed.  Howeve...",5,[],"['caribou', 'K-Cups']",0.321,Positive
+I wasn't really a coffee drinker until I got the Keurig.  I don't like the coffee that sits in the p...,5,[],[],0.394,Positive
+i love these bars. i've tried all the flavors and they're all pretty darned great. i eat them more f...,5,[],[],0.57,Positive
+"These machines are great, unfortunately the coffee used in the Douwe Egberts pods is horrible.  I wa...",1,[],['Douwe Egberts'],0.015,Neutral
+the only test I know is if my dog will eat both his meals everyday.  if he does and doesnt have wate...,3,[],[],0.3,Positive
+"I like just about all the Dr. McDougall foods. The taste of this one if pretty mild, but good.<br />...",4,[],[],0.108,Positive
+I started using this hemp protein when I was pregnant as an alternative to soy and whey. As I am not...,5,[],[],0.273,Positive
+"My three-year-old and I both love this granola. We eat it almost every morning -- mine with yogurt, ...",5,[],[],0.149,Positive
+"I first ordered a pound from another vendor, but it just didn't last. This 6 lb. fudge brick is sure...",5,[],[],0.193,Positive
+This was my first time cooking with a Prima Taste kit and was impressed by the full flavor when maki...,4,[],[],0.115,Positive
+Tommy loves Wellness and he really enjoyed this flavor. I always buy it in the bulk (30lbs) and he d...,5,[],['Wellness'],0.417,Positive
+Health food and beer food in one package.  My new favorite snack.  Over use can lead to shall we say...,5,[],[],0.318,Positive
+"Our pair cannot ever seem to agree on the same food, be it canned or dry! This is the first one they...",4,[],[],-0.02,Neutral
+One of the three containers was open and had spilled over half out all over the package..not pleased...,1,[],[],0.111,Positive
+"I sent this to my son for a snack during finals week.  It didn't arrive as scheduled, so he didn't h...",5,[],[],0.25,Positive
+My 2 dogs go crazy over this food!  I made the decision to switch them to it after reviewing all the...,5,[],"['Merrick food', 'Amazon']",0.059,Neutral
+My cats think this food is the cat's meow.  I think that cats who have been fed grocery-store-type f...,5,[],['fed'],0.122,Positive
+"This bar tastes just like pecan pie!!!<br /><br />It is truly amazing. There is no flour, sugar, egg...",5,[],[],0.186,Positive
+"I make protein shakes for breakfast and peanut butter and banana isy fave!!! However, peanut butter ...",5,[],['Sooooo'],0.26,Positive
+I purchased some macha at a health food store and figured it was the best quality. I was assuming th...,5,[],"[""---I'm""]",0.566,Positive
+"One of the best coconut waters on the market, price is excellent with subscription.<br /><br />PRO: ...",4,[],[],0.284,Positive
+I just finished having pancakes made fro this mix. It was a free sample given at a gluten-free food ...,5,[],[],0.242,Positive
+This is for puppies the bag is super small!!!The bag didn't last more than a day. I thought it was f...,2,[],[],0.417,Positive
+Have ordered a variety of these Indian meals and love them all.  Fast and easy to prepare and the<br...,5,[],[],0.48,Positive
+"Cats love it! And Wellness is a brand I trust. Cats only get canned food once a week as a treat, and...",5,[],['Wellness'],0.186,Positive
+I am addicted to these cookies.  They taste much better than the regular ones.  The only draw back i...,4,[],[],0.071,Neutral
+"When I opened the much-anticipated package, it smelled dusty and stale, which should have been my fi...",2,[],[],0.004,Neutral
+I purchased Emeril's Big Easy Bold K-cups for my wife who prefers strong black coffee and found this...,5,[],[],0.219,Positive
+I purchased this because I wanted a decaf white tea that had some flavor to it.  I normally don't en...,4,[],"['Amazon', 'Amazon', 'Stash']",0.154,Positive
+"I keep this cereal on hand all the time.  I like the taste.  It is low fat, low sodium and has 3 gra...",4,[],['Amazon'],0.175,Positive
+From what I can tell the only reason that these treats have the Greenies name is because they are ma...,3,[],[],0.002,Neutral
+Very good.  It's like a not too sweet snack.  And the red bean paste is just a nice contrast with th...,5,[],[],0.392,Positive
+What a blessing that I have a glutinous kitty that will swallow food whole. He just devours these an...,5,[],[],-0.047,Neutral
+I tried this soup several months and I loved it so much that I reordered it again and again.  Can't ...,5,[],[],0.42,Positive
+This is exactly what I was looking for but couldln't find at more local store. I wouldln't have orde...,3,[],[],0.25,Positive
+"To some HISPANIC means hot and spicy. This is neither, it's rather TASTY! This is the BEST chicken b...",5,[],[],-0.079,Neutral
+Or when you want to feel like you are on a tropical vacation.  Easy to make and fun to drink.  Yum!,5,[],[],0.404,Positive
+My friend (has three kids) recommended that I buy these for my 6 month old. I couldn't find them in ...,5,[],[],0.386,Positive
+"With Prime, Ship and Save and the size of the bag, the cost can't be beat in NYC.  We also love that...",5,[],['Amazon'],0.492,Positive
+When I received this basil there were a few small holes in the bag. They may have been there for a w...,3,[],['Frontier'],-0.05,Neutral
+There is no coffee in this K-cup. How do I know? The cup is completely empty when the Krueg is done ...,3,[],['Hot Chocolate'],0.172,Positive
+This is the best tea I have ever tasted at home.  The flavors are blended perfectly.  I like to fill...,5,[],[],0.833,Positive
+The Pork Shake N Bake has always been a simple way to make any old chop a good bit tastier. With min...,4,[],"['The Pork Shake N Bake', 'the Shake N Bake']",0.098,Neutral
+"As a chocolate lover and sometime baker and pastry chef, I set out to find out exactly what these co...",3,[],['Nabisco'],0.111,Positive
+It has more calories and nutrients compared to other products.<br />reasonable price. easy to carry....,5,[],[],0.265,Positive
+I received this sampler as a gift and was pleasantly surprised at the quality of the beans and the n...,5,[],[],0.28,Positive
+"The bonsai money tree came in good health and has flourished, but I've been yelled at by everyone in...",4,[],[],0.31,Positive
+"From my wife Sarah: The flavor is decent though not outstanding, but I still use this product since ...",4,[],"['ON A', 'ON A', 'Amazon', 'Amazon']",0.235,Positive
+"I love this topping; I not only use it on ice cream, I use it every day IN my morning coffee instead...",5,[],['Redner'],0.181,Positive
+"THIS WAS EXACTLY WHAT I WAS NEEDING. GREAT PRICE, GREAT QUALITY, GREAT SERVICE!!!IT IS GREAT TO KNOW...",5,[],"['GREAT QUALITY', 'GREAT SERVICE!!!IT', 'GREAT']",0.627,Positive
+"The is a winner!  It's very convenient, and has all the taste you're looking for.  Somewhere in my m...",5,[],[],0.038,Neutral
+"Arrived on time, with the package intact.  Absolutely no problems with buying this product and plan ...",5,[],[],0.133,Positive
+Have started sprouting again and am enjoying these seeds.  I use them in my salads and sandwiches.  ...,5,[],[],0.495,Positive
+"BOTTOM LINE<br />Schar makes the best gluten free bread, bar none.  These are indistinguishable from...",5,[],[],0.292,Positive
+I really like this stuff but was a little annoyed that in 2 of my vials the product had solidified. ...,3,[],[],-0.092,Neutral
+"This one is okay. The hazelnut flavoring is very mild so I had a hard time discerning it at all, but...",3,[],[],0.335,Positive
+"These cookies are fantastically tasty,& arrived with only a little breakage (other reviewers complai...",5,[],['WAY'],0.091,Neutral
+I was looking for emulsifier when I encountered a few website suggesting lecithin. Then I realized i...,4,[],[],0.286,Positive
+"The 3 individual chambers of corn, salt and butter/oil in 1 pack are cumbersome to open. Could be de...",5,[],[],0.325,Positive
+"I have never reviewed an item before, but taking the time to review the Baby Brezza because of the u...",1,"['Baby Brezza', 'Baby Brezza']","['Amazon', 'Customer Service', 'Amazon', 'Amazon']",0.096,Neutral
+"I've tried Revolution tea before, but this one came as a surprise.  It's very well balanced in terms...",5,[],[],0.191,Positive
+"As Various coffees are offered by Amazon at good prices, foolishly I buy them to try them out. To be...",2,[],['Amazon'],0.38,Positive
+"i'm addicted to nuts, i know it sounds funny but i am and these are no exception but i thought i'd l...",5,[],[],0.083,Neutral
+"Not sure what's in this stuff, but it tastes odd, kind of like raw garbanzo bean flour.  I won't buy...",1,[],[],-0.012,Neutral
+"Really nice for bringining camping.  If you are looking for hot dogs for grilling, however, try the ...",4,[],"['Big Franks', 'Amazon', 'the LL Big Franks']",0.111,Positive
+"The latest Quaker Oatmeal Squares flavor claims ""just a hint of Cinnamon"" and just the hind was perf...",4,[],"['Quaker Oatmeal Squares', 'Cinnamon']",0.292,Positive
+I love these chips and they are expensive in the grocery store.  This was a great buy.,5,[],[],0.267,Positive
+"These make a quick filling breakfast when I go to the gym and then straight to work. I like them, bu...",4,[],[],0.344,Positive
+"Somewhere between a rice cake and a potato chip in texture, PopChips are an excellent low calorie sn...",5,[],"['PopChips', '/>Salt & Pepper - Good', '/>Sour Cream & Onion - Hands']",0.254,Positive
+I have tried all of the Bai and Bai5 antioxidant infused beverages and I must say that this is one o...,4,[],[],0.171,Positive
+"On the cover, pink guava and coconut sounds very interesting and tasty.<br /><br />It was the comple...",2,[],[],0.284,Positive
+"<a href=""http://www.amazon.com/gp/product/B001EO5U3I"">McCANN'S Steel Cut Oatmeal, Traditional, 28-Ou...",5,[],[],0.09,Neutral
+I have a sensitive stomach and I have a hard time swallowing solid food in the morning.<br /><br />I...,5,[],[],-0.015,Neutral
+"After being weaned off his Blue Buffalo puppy food, our allergy sensitive dog took to the Fish and S...",5,[],['Sweet Potato'],0.178,Positive
+They're somewhat fragile and almost too big to consume in a single bite (I'm a full-grown man) but t...,5,[],[],0.28,Positive
+Snapea Crisps taste so good. I ordered a second case. The whole family likes them. 5 Stars,5,[],[],0.3,Positive
+I admit I don't usually drink decaf but this is a favorite in my office and I felt it deserved a goo...,5,[],[],0.317,Positive
+The product was perfect with an extra gift included.  The apples are real dried apples and work wond...,5,[],[],0.496,Positive
+"For someone who doesn't/can't have a lot of sodium, this was a great find. Now the whole house is us...",5,[],"['Heinz', 'Heinz']",0.068,Neutral
+"These are amazing little bars. Filling, yummy and all natural. The chocolate mint flavor is nice tho...",5,[],[],0.15,Positive
+"Even though there is a statement right on the front of these packages of gum that claims ""Gluten Fre...",1,[],"['GF/Celiac', 'Spry']",-0.015,Neutral
+"I love artichokes, and although not as nice as fresh, these are delicious! They are quite large and ...",5,[],[],0.446,Positive
+I always send See's as a gift to relatives!  They are worth the extra shipping cost and have always ...,5,[],[],0.433,Positive
+"Very good product, made excellent cinnamon candy.  Arrived as ordered, very satisfied.  Also great f...",5,[],[],0.511,Positive
+"Amazon shipped the soup, it arrived in 3 days and it was awesome! Nong Shim Rules!<br />I highly rec...",5,[],['Amazon'],0.6,Positive
+"I love these Snapea Crisps!  They have a nice crunch, and the infusion of green peas gives great col...",5,[],[],0.498,Positive
+"Yes, it has the ""fake sugar"" taste, but it's okay.  The real downside to the product is the price.  ...",3,[],"['the K-Cup', 'the K-Cup']",0.171,Positive
+"My family and I love this snack.  We have ordered this on subscribe and save, not only because we sa...",5,[],[],0.367,Positive
+"Cornnuts are amazing, yet hard to find. These crispy kernels of goodness are low in salt and a lot l...",5,[],['MSG'],0.19,Positive
+"You would think not much could be said about pouches of nuts, however...<br /><br />Many of these pa...",5,[],[],0.22,Positive
+"First off, i would have to say that I did not find the Bacon flavor to be appealing at all.<br /><br...",5,[],['Bacon'],0.129,Positive
+"Had my big noble boy dog, who had been with me for ten years, die of Cancer recently. He was a anima...",5,['Cancer'],"['Cancer', 'Wellness', 'Wellness']",0.262,Positive
+"Tried this, recently, (in all dry flavors) for my German Shepherd Dog. At first, he wouldn't touch i...",3,[],[],0.071,Neutral
+Nothing spectacular.  It wasn't as sweet as I'd expected nor as flavorful.  It seems like I would ne...,3,[],[],0.283,Positive
+Delicious!  A very definite treat for the tea lover.  'Will continue to order Stash teas from Amazon...,5,[],['Amazon'],0.542,Positive
+I normally love Larabars. I have tried a few favors and have loved them all but there is something r...,1,['Larabars'],[],0.032,Neutral
+My husband loves LifeSavers and even though my daughter thought orange mints sounded disgusting I th...,1,['LifeSavers'],['Orange Mint LifeSavers'],0.207,Positive
+I used to love the smokehouse almonds but the last few cans I bought SUCKED! Bland with little flavo...,1,[],[],-0.021,Neutral
+These were well worth ordering because the Melba Toast was Not the best choice for me on the hCG die...,5,[],['the Melba Toast'],0.101,Positive
+Very good buy for the money.  No other store or web site had anything quite as good for the low pric...,4,[],[],0.418,Positive
+"I love that these have NO added sugar.  They are fresh, plump and juicy.  I add them to plain yogurt...",5,[],['Amazon'],0.236,Positive
+I was so excited to receive the product I immediately cooked a bag.  What a disappointment!!  The ta...,2,[],[],0.191,Positive
+When I ordered this product I received free shipping. Since then they have added shipping and it is ...,5,[],[],0.515,Positive
+If you like Musli this is the one to choose.  I've never tasted anything so good!!  There are tons o...,5,[],['Musli'],0.333,Positive
+I ordered this to hold the little coffee cups.  It works great and I keep it right by the coffee mak...,5,[],[],0.299,Positive
+Stumbled upon these delicious cherries in a local gourmet store...traveled elsewhere and could not f...,5,[],[],0.5,Positive
+Alpine spiced cider is and excellent flavorful anytime drink. The no sugar featured is wonderful for...,5,[],[],1.0,Positive
+"Overall, the kit was great and easy to use.  Would have rated it 5 stars except for the casings.  Th...",4,[],[],0.36,Positive
+My little dog loves these treats. Besides rewarding my dog I crash treats and mix it with medicine. ...,5,[],[],0.371,Positive
+"I was going to order this on here, but instead went directly to the company's website... and only to...",4,[],['GREAT'],0.405,Positive
